@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+  }
+  
+.ph-button {
+        
+    border-style: solid;
+    border-width: 0px 0px 3px;
+    color: #FFFFFF;
+    box-shadow: inset;	   
+    border-radius: 6px;
+    display: inline-block;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    transition: all 200ms ease-in-out 0s;
+    padding: 19px 39px 18px;
+    font-size: 18px;
+        
+    }
+   
+.ph-btn-blue {
+    
+    border-color: cadetblue;
+    background-color: darkblue;
+    }
+    
+.ph-btn-blue:hover {
+    background-color: #397CAC;
+    border-color: #326E99; 
+    }
+    
+  
+.ph-float {
+      
+    float: left;
+    width: 1500px;
+    padding: 10px;  
+    padding-top: 200px;  
+    text-align: center;
+    
+    }
+      
